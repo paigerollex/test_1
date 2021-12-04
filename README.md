@@ -8,11 +8,11 @@
 
 ## 2. Edit files in local -> Github
 
-* To open up file: start <file name>
+* To open up file: start file_name
 
 * Check if file is updated: git status
 
-* git add <file name>
+* git add file_name
 
 * git commit -m "commit message"
 
@@ -26,7 +26,17 @@
 
 * Repeat step 2 (except for git push): git push --set-upstream origin new_branch_name
 
-* To update main branch files (with new branch files): 
+* Commit any changes to files in new branch
+
+* Go back to main branch: git checkout main
+
+* Merge main branch <- new branch: git merge new_branch_name
+
+* Repeat step 2 (except for git add): git add .
+
+* Delete the new branch: git branch -d new_branch_name
+
+
 
 
 

@@ -22,6 +22,12 @@
 
 * Create a new branch & switch to it: git checkout -b new_branch_name
 
+* View all branches: git branch -a
+
+* Repeat step 2 (except for git push): git push --set-upstream origin new_branch_name
+
+* To update main branch files (with new branch files): 
+
 
 
 

@@ -18,7 +18,9 @@
 
 * **git push**
 
-## 3. Branches
+## 3. Working with branches
+  
+  Purpose: Create a new branch with the same files as main -> make changes in the new branches -> update the main branch with these changes
 
 * Create a new branch & switch to it: **git checkout -b new_branch_name**
 
@@ -37,6 +39,5 @@
 * Delete the new branch: git branch -d new_branch_name
 
 
-randome tezt
 
 

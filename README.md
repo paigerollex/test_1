@@ -18,4 +18,10 @@
 
 * git push
 
+## 3. Branches
+
+* Create a new branch & switch to it: git checkout -b new_branch_name
+
+
+
 

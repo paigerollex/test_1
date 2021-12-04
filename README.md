@@ -45,7 +45,6 @@
 * Repeat step 2
 
 
-
-
+randome tezt
 
 

@@ -40,11 +40,12 @@
 
 * Note: Merge conflicts occurs when changes are made in Github and in the local
 
+* After making changes in local, repeat step 2
+
 * Resolve any merge conflicts: **git pull**
 
 * Repeat step 2
 
 
-randome tezt
 
 

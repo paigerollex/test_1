@@ -28,13 +28,21 @@
 
 * Commit any changes to files in new branch
 
-* Go back to main branch: git checkout main
+* Go back to main branch: **git checkout main**
 
-* Merge main branch <- new branch: git merge new_branch_name
+* Merge main branch <- new branch: **git merge new_branch_name**
 
-* Repeat step 2 (except for git add): git add .
+* Repeat step 2 (except for git add): **git add .**
 
-* Delete the new branch: git branch -d new_branch_name
+* Delete the new branch: **git branch -d new_branch_name**
+
+## 4. Edit files in Github -> local
+
+* Note: Merge conflicts occurs when changes are made in Github and in the local
+
+* Resolve any merge conflicts: **git pull**
+
+* Repeat step 2
 
 
 

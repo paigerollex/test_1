@@ -1,18 +1,21 @@
-# DEMO
+## 1. Create a new repository
 
-1. Create new repository in github directory: test_rep
+* Create new repository in github directory: test_rep
 
-2. Create a folder in computer to "host" the remote directory: project_1
+* Create a folder in computer to "host" the remote directory: project_1
 
-3. Initialize main folder in computer according to github instructions
+* Initialize main folder in computer by copy and pasting github instructions
 
-4. To open up file: "start file"
+## 2. Edit files in local -> Github
 
-5. git status
+* To open up file: start "<file name>"
 
-6. git add "<file name>"
+* Check if file is updated: git status
 
-7. git commit -m "commit message"
+* git add "<file name>"
 
-8. git push
+* git commit -m "commit message"
+
+* git push
+
 

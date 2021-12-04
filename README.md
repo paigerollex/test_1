@@ -8,11 +8,11 @@
 
 ## 2. Edit files in local -> Github
 
-* To open up file: start "<file name>"
+* To open up file: start <file name>
 
 * Check if file is updated: git status
 
-* git add "<file name>"
+* git add <file name>
 
 * git commit -m "commit message"
 
